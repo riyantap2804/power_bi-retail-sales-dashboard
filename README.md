@@ -2,7 +2,7 @@
 
 <p>
 <strong>Project Repository:</strong>
-<a href="https://github.com/YOUR-USERNAME/powerbi-retail-sales-dashboard" target="_blank">
+<a href="[https://github.com/YOUR-USERNAME/powerbi-retail-sales-dashboard](https://github.com/riyantap2804/power_bi-retail-sales-dashboard)" target="_blank">
 View on GitHub
 </a>
 </p>
@@ -10,7 +10,7 @@ View on GitHub
 ## Dashboard Preview
 
 <p align="center">
-<img src="dashboard.png" alt="Retail Dashboard Preview" width="900">
+<img src="[dashboard.png](https://github.com/riyantap2804/power_bi-retail-sales-dashboard/blob/main/Retail_Sales_Dashboard%20-%20PBI.png)" alt="Retail Dashboard Preview" width="900">
 </p>
 
 ## Project Overview
