@@ -1,12 +1,25 @@
-# Retail Performance Dashboard — Power BI 
+# Retail Performance Dashboard — Power BI
+
+<p>
+<strong>Project Repository:</strong>
+<a href="https://github.com/YOUR-USERNAME/powerbi-retail-sales-dashboard" target="_blank">
+View on GitHub
+</a>
+</p>
+
+## Dashboard Preview
+
+<p align="center">
+<img src="dashboard.png" alt="Retail Dashboard Preview" width="900">
+</p>
 
 ## Project Overview
 <p>
-This project presents an interactive retail analytics dashboard built using Power BI to monitor business performance across sales, profit, customers, products and regions.
+This project presents an interactive retail analytics dashboard built using Power BI to monitor business performance across sales, profit, customers, products, and regions.
 </p>
 
 <p>
-The report transforms transactional data into actionable insights through KPI tracking, category analysis, regional comparisons and time-based profit trends. All visuals dynamically update based on user selections through slicers and cross-filtering.
+The report transforms transactional data into actionable insights through KPI tracking, category analysis, regional comparisons, and time-based profit trends. The dashboard uses data modeling and DAX measures to generate meaningful business metrics. All visuals dynamically update based on user selections through slicers and cross-filtering.
 </p>
 
 <p>
@@ -47,7 +60,7 @@ Distribution of quantity sold across major product categories to identify high-d
 
 ### Payment Mode Analysis
 <p>
-Comparison of customer payment preferences including COD, UPI, Credit Card, Debit Card and EMI.
+Comparison of customer payment preferences including COD, UPI, Credit Card, Debit Card, and EMI.
 </p>
 
 ### Time-Based Profit Trends
