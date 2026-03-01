@@ -10,7 +10,7 @@ View on GitHub
 ## Dashboard Preview
 
 <p align="center">
-<img src="[dashboard.png](https://github.com/riyantap2804/power_bi-retail-sales-dashboard/blob/main/Retail_Sales_Dashboard%20-%20PBI.png)" alt="Retail Dashboard Preview" width="900">
+<img width="1265" height="822" alt="E-Commerce Sales Dashboard" src="[https://github.com/user-attachments/assets/5d358554-44aa-4ef0-93bf-b61f0d75bdf2](https://github.com/riyantap2804/power_bi-retail-sales-dashboard/blob/main/Retail_Sales_Dashboard%20-%20PBI.png)" />
 </p>
 
 ## Project Overview
