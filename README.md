@@ -2,9 +2,7 @@
 
 <p>
 <strong>Project Repository:</strong>
-<a href="[https://github.com/YOUR-USERNAME/powerbi-retail-sales-dashboard](https://github.com/riyantap2804/power_bi-retail-sales-dashboard)" target="_blank">
-View on GitHub
-</a>
+<a href="[https://github.com/YOUR-USERNAME/powerbi-retail-sales-dashboard](https://github.com/riyantap2804/power_bi-retail-sales-dashboard)">View on GitHub</a>
 </p>
 
 ## Dashboard Preview
